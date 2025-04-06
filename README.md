@@ -1,5 +1,5 @@
 # IBMGABI
-## Generative AI for Business Intelligence (BI) Analysts Specialization
+## Generative AI for Business Intelligence (BI) Analysts Specialization (3 course series)
 
 Are you a business intelligence (BI) Analyst or aspiring to start your career in this domain? This specialization can help to advance your career by leveraging the power of generative AI. 
 
